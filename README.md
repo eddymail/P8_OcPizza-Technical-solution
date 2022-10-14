@@ -2,6 +2,7 @@
 
 ## General informations
 This repository contains detailed specifications of the P8 of the **Grande École du Numérique** course.
+Design of the technical solution for a pizzeria management system.
 
 ## Evaluation repository
 
